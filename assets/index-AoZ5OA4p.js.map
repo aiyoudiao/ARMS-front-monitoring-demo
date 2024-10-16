@@ -1,1 +1,0 @@
-{"version":3,"file":"index-AoZ5OA4p.js","sources":["../../src/pages/function/hide-child/three/index.tsx"],"sourcesContent":["import LookForward from '@/components/stateless/custom/LookForward';\n\nexport function Component() {\n  return <LookForward />;\n}\n"],"names":["Component","LookForward"],"mappings":"sFAEO,SAASA,GAAY,CAC1B,aAAQC,EAAY,CAAA,CAAA,CACtB"}

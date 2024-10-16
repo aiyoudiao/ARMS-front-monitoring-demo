@@ -1,0 +1,1 @@
+{"version":3,"file":"index-ClYspYS2.js","sources":["../../src/pages/multi-menu/first_child/index.tsx"],"sourcesContent":["import LookForward from '@/components/stateless/custom/LookForward';\n\nexport function Component() {\n  return <LookForward />;\n}\n"],"names":["Component","LookForward"],"mappings":"sFAEO,SAASA,GAAY,CAC1B,aAAQC,EAAY,CAAA,CAAA,CACtB"}

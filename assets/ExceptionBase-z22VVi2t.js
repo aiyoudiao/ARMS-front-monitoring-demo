@@ -1,0 +1,2 @@
+import{r as a,B as r,X as c,k as s,S as i,J as x}from"./index-8PvjVjAa.js";const l={403:"no-permission",404:"not-found",500:"service-error"},p=a.memo(({type:o})=>{const{t:e}=r(),n=c(),t=()=>{n("/")};return s.jsxs("div",{className:"size-full min-h-520px flex-col-center gap-24px overflow-hidden",children:[s.jsx("div",{className:"flex text-400px text-primary",children:s.jsx(i,{localIcon:l[o]})}),s.jsx(x,{onClick:t,type:"primary",children:e("common.backToHome")})]})});export{p as E};
+//# sourceMappingURL=ExceptionBase-z22VVi2t.js.map

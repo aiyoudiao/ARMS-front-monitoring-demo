@@ -1,0 +1,1 @@
+{"version":3,"file":"index-eI4AkaZ8.js","sources":["../../src/pages/manage/menu/index.tsx"],"sourcesContent":["import LookForward from '@/components/stateless/custom/LookForward';\n\nexport function Component() {\n  return <LookForward />;\n}\n"],"names":["Component","LookForward"],"mappings":"sFAEO,SAASA,GAAY,CAC1B,aAAQC,EAAY,CAAA,CAAA,CACtB"}

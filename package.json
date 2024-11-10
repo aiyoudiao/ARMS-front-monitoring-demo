@@ -39,7 +39,7 @@
     "cleanup": "sa cleanup",
     "commit": "sa git-commit",
     "commit:zh": "sa git-commit -l=zh-cn",
-    "deploy": "node createNoJekyll.cjs && node ./node_modules/gh-pages/bin/gh-pages-clean.js && gh-pages -d ./dist --dotfiles",
+    "deploy": "npm run build && node createNoJekyll.cjs && node ./node_modules/gh-pages/bin/gh-pages-clean.js && gh-pages -d ./dist --dotfiles",
     "dev": "vite --mode test",
     "dev:prod": "vite --mode prod",
     "gen-route": "sa gen-route",
